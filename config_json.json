@@ -1,0 +1,6 @@
+{
+  "language": "fr",
+  "pipeline":["tensorflow_embedding",
+              "tensorflow_embedding"
+  ]
+}
